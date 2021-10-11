@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# harvest.py
+# dirtree.py
 # Fabiano Barufaldi - barufa@gmail.com - 2021-10-10.
 # Cocus challenge #1 - File listing
 
